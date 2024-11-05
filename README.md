@@ -70,6 +70,10 @@ Commit message suggestions:
 Choose the number of the desired message (1-5) or 'q' to quit:
 ```
 
+
+https://github.com/user-attachments/assets/eaa95f8b-9bc3-4ff7-896e-f30c7c7be8f5
+
+
 ## Contributing
 
 Contributions are always welcome! Feel free to open issues and pull requests.
