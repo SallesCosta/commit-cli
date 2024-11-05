@@ -21,7 +21,7 @@ An interactive CLI that uses Cody AI to generate commit messages following the C
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/ccm.git
+git clone https://github.com/sallescosta/ccm.git
 ```
 
 2. Navigate to the project directory:
